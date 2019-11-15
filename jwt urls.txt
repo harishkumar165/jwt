@@ -22,3 +22,5 @@ manager role
 https://localhost:8443/api/public/management/reports
 manager manager123
 Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJtYW5hZ2VyIiwiZXhwIjoxNTc0NjYyODgxfQ.ozzZPtNrYr7Das2DYMIsewIiwgeST7iB8n45rnoIdDC6xgrDkuKhlfSYCOQxp9gO0ZXhei_priie6p4WZs519A
+
+https://github.com/dangeabunea/RomanianCoderExamples/tree/master/SpringBootSecurity/Jwt
