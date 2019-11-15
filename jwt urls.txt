@@ -1,0 +1,24 @@
+https://localhost:8443/login
+{
+	"username":"manager",
+	
+	"password":"manager123"
+
+}
+
+user role
+==========
+dan dan123
+
+Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJkYW4iLCJleHAiOjE1NzQ2NjIxNDZ9.jq6TxuTKpHHf6ZzFY0GGm1-T9J0W2jDp6zQt_vVEMEF-7FB_exPiQ7YbhcAkCmIxBy6Mcj4J6l0iUFpJIiRlCA
+
+admin role
+==========
+admin admin123
+Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJhZG1pbiIsImV4cCI6MTU3NDY2Mjc3M30.nSyh_KH8jZYnU8iSvqyruSd5Cg_853jdgUXLoY2mQcW35UAnGrWrGoV-NHNtaXcZ9CZh8DreoHodaWtZR5Jhrw
+
+manager role
+=============
+https://localhost:8443/api/public/management/reports
+manager manager123
+Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJtYW5hZ2VyIiwiZXhwIjoxNTc0NjYyODgxfQ.ozzZPtNrYr7Das2DYMIsewIiwgeST7iB8n45rnoIdDC6xgrDkuKhlfSYCOQxp9gO0ZXhei_priie6p4WZs519A
